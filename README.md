@@ -1,5 +1,4 @@
-# python_udemy
-
+# Complete Python Developer in 2022: Zero to Mastery
 
 Complete Python Developer in 2022: Zero to Mastery
 
